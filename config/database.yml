@@ -82,3 +82,5 @@ production:
   database: stone
   username: stone_user
   password: EJRyROc0TCphySDQzw1KW2Si6Nx47ML4
+  host: dpg-cmtmlj0l5elc73ej4j6g-a
+  port: 5432
