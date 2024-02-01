@@ -79,6 +79,6 @@ test:
 #
 production:
   <<: *default
-  database: blog_production
-  username: blog
-  password: jogolo
+  database: stone
+  username: stone_user
+  password: EJRyROc0TCphySDQzw1KW2Si6Nx47ML4
